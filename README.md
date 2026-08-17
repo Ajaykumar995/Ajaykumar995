@@ -61,14 +61,6 @@ Full Stack Developer internship with **Infosys Springboard**.
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### AI & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git" />
-</p>
-
-**AI Tools:** ChatGPT • Cursor • Gemini
-
 ### Tools
 
 <p>
