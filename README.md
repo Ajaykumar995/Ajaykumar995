@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ajaykumar Polepalli
 
-**2026 CSE Graduate | MERN Stack Developer | Java | Data Structures & Algorithms**
+**2026 CSE Graduate | MERN Stack Developer | Java | SQL | Data Structures & Algorithms**
 
 I’m a Computer Science graduate passionate about building practical,
 user-focused web applications and solving problems through clean,
@@ -60,6 +60,14 @@ Full Stack Developer internship with **Infosys Springboard**.
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
+
+### AI & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git" />
+</p>
+
+**AI Tools:** ChatGPT • Cursor • Gemini
 
 ### Tools
 
